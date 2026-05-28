@@ -52,4 +52,4 @@ Built entirely with vanilla JavaScript and modern web technologies—no backend 
 4. Generate unique ID, QR code, and blockchain hash
 5. Auto-save to LocalStorage with explorer visibility
 
-contact us for full version (professorshami435@gmail.com)
+contact for further changes or other language projects or FYP's (professorshami435@gmail.com)
