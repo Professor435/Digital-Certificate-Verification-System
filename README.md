@@ -1,7 +1,6 @@
 # Digital-Certificate-Verification-System
 
-
-> CertiVault Pro — A fully functional, blockchain-enabled digital certificate verification system with QR-code authentication, PDF generation, and real-time dashboard analytics.
+CertiVault Pro — A fully functional, blockchain-enabled digital certificate verification system with QR-code authentication, PDF generation, and real-time dashboard analytics.
 
 ## 🔐 CertiVault Pro — Digital Certificate Verification System
 
