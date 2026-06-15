@@ -40,7 +40,7 @@ Built entirely with vanilla JavaScript and modern web technologies—no backend 
 ### 🚀 Core Functionality
 
 **Verification Flow:**
-1. Enter Certificate ID (format: `CERT-2024-XXXXXXXX`) or upload QR code
+1. Enter Certificate ID (format: `CERT-2024-XXXXXXXX`) or upload QR code 
 2. System simulates blockchain lookup with loading animation
 3. Displays verified recipient details, issuer info, and cryptographic hash
 4. One-click PDF download and social sharing
