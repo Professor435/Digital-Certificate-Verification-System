@@ -7,7 +7,7 @@ CertiVault Pro — A fully functional, blockchain-enabled digital certificate ve
 A production-ready, client-side digital credential platform featuring blockchain-inspired 
 verification, QR-code authentication, and comprehensive certificate lifecycle management.  
 Built entirely with vanilla JavaScript and modern web technologies—no backend required.
-
+ 
 ### ✨ Key Features
 
 - **🔏 Instant Certificate Verification** — Validate authenticity via unique Certificate ID 
